@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nishchalam
+- 👀 I’m interested in Coding, Video editing and mobile photography
+- 🌱 I’m currently learning Electronics and Communication Engineering Undergrad at IIITDMK
+- 📫 How to reach me mnishchala@gmail.com
