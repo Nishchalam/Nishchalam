@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Nishchalam
-- 👀 I'm skilled with Python and C++.
-- 👀 I’m interested in Coding, Video editing and mobile photography
+- 👋 Hi, I’m Nishchala Mukku
+- 👀 I'm skilled with Python, C++.
+- 👀 I'm learning Machine learning and Deep learning.
+- 👀 I’m interested in Coding and Video editing.
 - 🌱 I’m currently learning Electronics and Communication Engineering Undergrad at IIITDM Kurnool
 - 📫 How to reach me mnishchala@gmail.com 
