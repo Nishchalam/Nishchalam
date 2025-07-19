@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Nishchala Mukku, check out my resume in the main branch! 
-- 👀 I'm skilled with Python, C++.
-- 👀 I'm learning Machine learning and Deep learning.
-- 👀 I'm learnt many Electronics and engineering related technologies.
-- 👀 I’m interested in Coding and Video editing.
-- 🌱 I’m currently learning Electronics and Communication Engineering Undergrad at IIITDM Kurnool
-- 📫 How to reach me mnishchala@gmail.com 
+
