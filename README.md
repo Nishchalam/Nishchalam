@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
   <h1>Hi there, I'm Nishchala Mukku</h1>
   <p><em>M.S. by Research Scholar @ IIT Madras | Speech Signal Processing & Machine Learning</em></p>
 </div>
@@ -36,11 +35,4 @@
   <a href="https://github.com/Nishchalam">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="25" />
-  <i>Always building, always learning.</i>
 </div>
