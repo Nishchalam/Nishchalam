@@ -17,7 +17,7 @@
 
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,keras,scikitlearn,numpy,pandas,linux,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,pytorch,tensorflow,scikitlearn,numpy,pandas,latex,notion,linux,github&theme=white" alt="Tech Stack" />
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 ### 🔗 Let's Connect
 <div align="center">
   <a href="https://linkedin.com/in/nishchala-mukku">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=light" alt="LinkedIn" />
   </a>
   <a href="https://nishchalam.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
