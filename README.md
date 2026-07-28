@@ -6,11 +6,11 @@
 <br>
 
 ### 🚀 About Me
-- 🎓 I’m a researcher working under **Prof. Dr. C. S. Ramalingam** at IIT Madras.
-- 🔬 My research focuses on developing signal-processing-informed machine learning methods for robust pitch estimation from speech and singing voice recordings.
-- 🧠 I investigate how classical speech processing techniques can be integrated with modern deep learning architectures.
-- 📫 Reach out to me: **[mnishchala@gmail.com](mailto:mnishchala@gmail.com)**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1q-uluKK8A7EFydjATNu9I_mXFrYvnaK9/view?usp=sharing)**
+-  I’m a researcher working under **Prof. Dr. C. S. Ramalingam** at IIT Madras.
+-  My research focuses on developing signal-processing-informed machine learning methods for robust pitch estimation from speech and singing voice recordings.
+-  I investigate how classical speech processing techniques can be integrated with modern deep learning architectures.
+-  Reach out to me: **[mnishchala@gmail.com](mailto:mnishchala@gmail.com)**
+-  Check out my **[Resume](https://drive.google.com/file/d/1q-uluKK8A7EFydjATNu9I_mXFrYvnaK9/view?usp=sharing)**
 -  Check out my **[Website](https://nishchalam.github.io/Portfolio/)**
 
 <br>
