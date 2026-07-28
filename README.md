@@ -11,6 +11,7 @@
 - 🧠 I investigate how classical speech processing techniques can be integrated with modern deep learning architectures.
 - 📫 Reach out to me: **[mnishchala@gmail.com](mailto:mnishchala@gmail.com)**
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1q-uluKK8A7EFydjATNu9I_mXFrYvnaK9/view?usp=sharing)**
+-  Check out my **[Website](https://nishchalam.github.io/Portfolio/)**
 
 <br>
 
@@ -36,3 +37,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nishchalam)](https://github.com/stats-organization/github-stats-extended)
